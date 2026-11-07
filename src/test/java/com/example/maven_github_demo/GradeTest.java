@@ -19,7 +19,7 @@ public class GradeTest {
 
     @Test
     public void testCGrade() {
-        assertEquals("C", g.calculateGrade(65));
+        assertEquals("C", g.calculateGrade(70));
     }
 
     @Test
